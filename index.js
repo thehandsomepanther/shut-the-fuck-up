@@ -1,0 +1,1 @@
+setInterval(() => console.log('shut the fuck up'.split('').map(char => Math.random() > .5 ? char.toUpperCase() : char).join('')), 1000);

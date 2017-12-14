@@ -1,1 +1,1 @@
-this is art
+a short generative poem
